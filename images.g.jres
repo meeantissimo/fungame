@@ -1,0 +1,42 @@
+{
+    "image2": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAD//w8AAP//8EREDwAAH/H//////wAfEURERET0AB8RRERERPQAHx9ERET0/wDwRERERPQA8P9ERERE9AD/8URET0T0/x/xRPRPRET0H/FE9ERERPQfH/9PRPT////xAP///w8AAAAA8EREDwAAAAAA//8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage0"
+    },
+    "image3": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAD//w8AAP//8EREDwAAH/H//////wAfEURERET0AB8RRERERPQAHx9ERET0/wDwRERERPQA8P9ERERE9AD/8URET0T0/x/xRPRPRET0H/FE9ERERPQfH/9PRPT////xAP///w8AAAAA8EREDwAAAAAA//8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage1"
+    },
+    "1RI,DWlrJQ)Mk2spvCDd": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAD//w8AAP//8EREDwAAH/H//////wAfEURERET0AB8RRERERPQAHx9ERET0/wDwRERERPQA8P9ERERE9AD/8URET0T0/x/xRPRPRET0H/FE9ERERPQfH/9PRPT////xAP///w8AAAAA8EREDwAAAAAA//8PAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Randy"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAICICAAAAAAAiIiIAAAAAICIiIgIAAAAiIiIiIgAAACIiIiIiAAAAIiIiIiIRERESIiIiIgAAABIhIiIiAAAAIBESIgIAAAAAIiIiAAAAAAAgIgIAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage"
+    },
+    "image5": {
+        "data": "hwQQABAAAAAAAAAARAAAAAAAAAD/AAAA8A8AAP8HAAAfEfD/////Dx8f/+7u7u4PHxHv7u7u7v8f8X/35+7u9/B3d3fv/u/38Pd3d/f+7/8f8X9/f/7vAB8fd3d3/u//HxF39+f+7/fw/3d39//u9wAA/+7/9+7/AADw/3/v/gAAAAD/////AA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage2"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABQBQAAAAAAAEAEAAAAAAAAQAQAAAAAAABABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "myImage3"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAP//AAAAAAD/T/QAAP//AE9E/w8AH/H///9P9AAfEURERET0AB8RRERERP8AHx9ERET0DwDwRERERPQA8P9ERERE9P//8URET0RE9B/xRPRPRET0H/FE9ERERP8fH/9PRPT/D//x8P///w8AAAD/RPQAAAAAAP///wAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Randy jump"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
